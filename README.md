@@ -44,12 +44,12 @@ cd your-social-media-app
 cd server
 ```
 ```
+npm install
+```
 4. Install the client dependencies:
 ```
 cd client
 ```
-```
-npm install
 ```
 npm install
 ```
