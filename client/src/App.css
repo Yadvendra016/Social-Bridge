@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logo{
+  text-shadow: 2px 2px navy;
+}
+.active{
+  background-color: navy;
+}
+.background{
+  background-color: #020617;
+}
+.semiBackground{
+  background-color: #041633;
+}
+.active{
+  background-color: navy;
+}
+.form-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.fade-in-out {
+  animation: fadeInOut 2s infinite;
+}
+
+@keyframes fadeInOut {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,12 @@
+
+
+.custom-modal .ant-modal-content {
+    background-color: #040c25;
+    color: white;
+    border: 2px solid #bfc6d8; /* Add a 2px border around the modal */
+  }
+  
+  .custom-modal .ant-modal-header {
+    background-color: #040c25;
+    color: white;
+  }

@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-top: 70px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+/* Add this CSS to your component's CSS or a separate CSS file */
+
+
+.dropdown-menu a {
+  color: white; /* White text color */
+}
+
+.dropdown-menu a:hover {
+  background-color: #0000; /* Hover background color (lighter shade of blue) */
+}
+
+.dropdown-menu .dropdown-item {
+  display: flex;
+  align-items: center;
+  padding: 8px 20px;
+}
+
+.dropdown-menu .dropdown-item .anticon {
+  margin-right: 12px;
+  font-size: 18px;
+}
+
+/* Optionally, add some space at the top to align the dropdown with the button */
+.dropdown-menu.dropdown-menu-end {
+  margin-top: 40px;
+}
+
+/* Add this to set the background color of the dropdown element when it occurs */
+.show .dropdown-menu {
+  display: block;
+}
+.ant-avatar {
+  background-color: #072e6d;;
+}

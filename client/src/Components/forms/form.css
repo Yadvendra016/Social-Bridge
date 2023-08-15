@@ -1,0 +1,8 @@
+.Post-background{
+    background-color: #041633;
+}
+
+  textarea.form-control::placeholder {
+    color: #666;
+    font-size: large;
+  }

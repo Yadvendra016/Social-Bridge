@@ -1,0 +1,16 @@
+.card-color {
+  background-color: #041633;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.card-color .date {
+  color: #686363;
+}
+.card-body-color {
+  background-color: #040c25;
+  color: white;
+}
+
+label{
+  font-size: 0.9rem;
+}

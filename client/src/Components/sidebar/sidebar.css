@@ -1,0 +1,10 @@
+div{
+    color: white
+}
+
+.username{
+    color: #686363;
+    font-size: smaller;
+    position: relative;
+    left: 5px;
+}
