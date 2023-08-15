@@ -99,3 +99,21 @@ Contributions are welcome! If you have any improvements or feature suggestions, 
 3. Make your changes and commit them: `git commit -m "Add your message here"`.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request.
+
+## Contributors
+
+Thanks to these amazing people who have contributed to this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yadvendra016">
+        <img src="https://github.com/yadvendra016.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Yadvendra Shukla</b></sub>
+      </a>
+    </td>
+    <!-- Add more contributors in a similar way -->
+  </tr>
+</table>
+
