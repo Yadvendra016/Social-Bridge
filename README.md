@@ -8,11 +8,12 @@ Welcome to the Social Media Web App project! This project is built using the MER
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo Video
 
-[![Demo Video](link_to_thumbnail_image)](link_to_full_demo_video)
+https://github.com/Yadvendra016/Social-Bridge/assets/91756355/b776a791-42fa-4924-a772-bc09d1377713
+
 
 Click the above image to watch the full demo video of the project in action.
 ## Configuration
